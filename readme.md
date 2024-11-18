@@ -9,7 +9,6 @@ A personal portfolio website showcasing my skills, projects, and contact informa
 ## Features
 
 - **Responsive Design**: The website adapts to different screen sizes for optimal viewing on desktops, tablets, and mobile devices.
-- **Dark Mode**: A toggle for switching between dark and light themes.
 - **Navigation**: Smooth scrolling and a sticky navigation bar for seamless user experience.
 - **Sections**:
   - **Home**: Introduction with links to social profiles.
