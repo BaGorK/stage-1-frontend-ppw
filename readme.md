@@ -23,4 +23,3 @@ A personal portfolio website showcasing my skills, projects, and contact informa
 
 - **HTML**: Structure and content of the website.
 - **CSS**: Styling and responsiveness.
-- **Boxicons**: Icons for social links and UI elements.
